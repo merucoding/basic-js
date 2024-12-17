@@ -27,9 +27,6 @@ function getSeason(date) {
   }
 }
 
-// let res = getSeason(new Date(2020, 2, 31));
-// console.log(res);
-
 module.exports = {
   getSeason,
 };
